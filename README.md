@@ -25,3 +25,10 @@ This Power BI project explores UK road accident data to identify patterns in acc
 
 ## About Me
 I’m an operations professional with over four years of experience, transitioning into data and operations analytics. I use Excel, SQL and Power BI to analyse data, uncover insights and support better business decisions.
+## Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview Dashboard](Executive_overview.png)
+
+### Risk & Conditions
+![Risk and Conditions Dashboard](Risk_and_Condition.png)
